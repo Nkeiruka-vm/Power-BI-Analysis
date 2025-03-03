@@ -4,16 +4,16 @@
 This analysis aims to provide the Chocolate Company with actionable insights into sales performance, cost efficiencies, product optimization, and shipment strategies to drive revenue growth and enhance profitability.
 
 ## Data Source 
--- Salesperson transaction data (salesperson name, team, picture)
--- Product data (product name, category, cost per box)
--- Shipping data (date, product, Geo, sales, salesperson name, boxes)
--- Geo data (Geo, region)
--- Calendar data (date)
+- Salesperson transaction data (salesperson name, team, picture)
+- Product data (product name, category, cost per box)
+- Shipping data (date, product, Geo, sales, salesperson name, boxes)
+- Geo data (Geo, region)
+- Calendar data (date)
 
 ## Analysis Tools
--- Power Query (for data cleaning)
--- Sematic model ( for data modeling)
--- Power BI
+- Power Query (for data cleaning)
+- Sematic model ( for data modeling)
+- Power BI
 
 ## Exploratory Data Analysis
 
