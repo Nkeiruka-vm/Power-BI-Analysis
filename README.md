@@ -4,7 +4,8 @@
 This analysis aims to provide the Chocolate Company with actionable insights into sales performance, cost efficiencies, product optimization, and shipment strategies to drive revenue growth and enhance profitability.
 
 ## Data Source 
-- Salesperson transaction data (salesperson name, team, picture) https://files.chandoo.org/pbix/img/circle/women-6.png
+[Chocolate dataset.xlsx](https://github.com/user-attachments/files/19106246/Chocolate.dataset.xlsx)
+- Salesperson transaction data (salesperson name, team, picture) 
 - Product data (product name, category, cost per box)
 - Shipping data (date, product, Geo, sales, salesperson name, boxes)
 - Geo data (Geo, region)
