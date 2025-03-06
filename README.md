@@ -4,7 +4,7 @@
 This analysis aims to provide the Chocolate Company with actionable insights into sales performance, cost efficiencies, product optimization, and shipment strategies to drive revenue growth and enhance profitability.
 
 ## Data Source 
-- Salesperson transaction data (salesperson name, team, picture)
+- Salesperson transaction data (salesperson name, team, picture) https://files.chandoo.org/pbix/img/circle/women-6.png
 - Product data (product name, category, cost per box)
 - Shipping data (date, product, Geo, sales, salesperson name, boxes)
 - Geo data (Geo, region)
@@ -14,7 +14,6 @@ This analysis aims to provide the Chocolate Company with actionable insights int
 - Power Query (for data cleaning)
 - Sematic model ( for data modeling)
 ![Screenshot 2025-03-06 110459](https://github.com/user-attachments/assets/83d4ea5e-6490-4ad6-839a-ad41a916f0f3)
-
 - Power BI
 
 ## Exploratory Data Analysis
