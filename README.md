@@ -51,6 +51,7 @@ This analysis aims to provide the Chocolate Company with actionable insights int
 - MoM/YoY sales growth and profitability changes
 
 ## Deliverables
+![Screenshot 2025-03-06 110258](https://github.com/user-attachments/assets/a01b1322-5fdb-415e-a9e6-f69b8dbf2db4)
 - Interactive dashboards providing real-time insights into sales, products, salesperson, and shipment performance.
 - Comprehensive reports summarizing key findings, trends, and recommendations.
 - Presentations to management and stakeholders outlining strategic implications.
