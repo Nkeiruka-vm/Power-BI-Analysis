@@ -53,6 +53,7 @@ This analysis aims to provide the Chocolate Company with actionable insights int
 ## Deliverables
 ![Screenshot 2025-03-06 110258](https://github.com/user-attachments/assets/a01b1322-5fdb-415e-a9e6-f69b8dbf2db4)
 - Interactive dashboards providing real-time insights into sales, products, salesperson, and shipment performance.
+ ![Screenshot 2025-03-06 110327](https://github.com/user-attachments/assets/60fe242a-b5a2-46e3-8b43-3ecb6cb32b12) 
 - Comprehensive reports summarizing key findings, trends, and recommendations.
 - Presentations to management and stakeholders outlining strategic implications.
 
