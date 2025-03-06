@@ -13,6 +13,8 @@ This analysis aims to provide the Chocolate Company with actionable insights int
 ## Analysis Tools
 - Power Query (for data cleaning)
 - Sematic model ( for data modeling)
+![Screenshot 2025-03-06 110459](https://github.com/user-attachments/assets/83d4ea5e-6490-4ad6-839a-ad41a916f0f3)
+
 - Power BI
 
 ## Exploratory Data Analysis
